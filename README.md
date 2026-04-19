@@ -21,4 +21,4 @@ This project simulates the spread of a rumor among participants using a Monte Ca
 ## How to Run
 ```bash
 pip install -r requirements.txt
-python src/simulation.py
+python src/Final_Project.py
